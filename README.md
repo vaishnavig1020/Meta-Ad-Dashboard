@@ -8,7 +8,7 @@ across Meta platforms like Facebook & Instagram.
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](images/preview.png)
+![Dashboard Preview](images/preview.PNG)
 
 ---
 
